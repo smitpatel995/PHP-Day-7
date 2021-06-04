@@ -32,7 +32,7 @@
         <h1> &nbsp;&nbsp;&nbsp;Perform Action&nbsp;&nbsp;&nbsp; </h1>
         
       <!--button-->
-        <button class="bbtn"><a href="dashboard.php">Display</a></button>
+        <button class="bbtn"><a href="index.php">Display</a></button>
         <button class="bbtn"><a href="form.php">Insert Data</a></button>
        
       <!--button-->
